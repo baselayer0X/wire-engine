@@ -1,5 +1,0 @@
-voyageai
-anthropic
-numpy
-python-dotenv
-sentence-transformers
